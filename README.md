@@ -1,6 +1,6 @@
 # stardew-valley-emojipack
 
-A set of Slack emojis related to Stardew Valley.
+A set of Slack emojis related to Stardew Valley. Enjoy!
 
 ![abigail](https://github.com/danslimmon/stardew-valley-emojipack/raw/master/images/sdv-abigail.png)
 ![alex](https://github.com/danslimmon/stardew-valley-emojipack/raw/master/images/sdv-alex.png)
@@ -53,3 +53,7 @@ You'll need a terminal.
         --email YOUR_EMAIL_ADDRESS --password YOUR_PASSWORD \
         --pack https://s3-us-west-2.amazonaws.com/danslimmon-emojipacks/stardew_valley/stardew_valley.yaml
 ```
+
+# Acknowledgments
+
+All of these images derive from the excellent [Stardew Valley Wiki](https://stardewvalleywiki.com/Stardew_Valley_Wiki), and ultimately from the delightful game [Stardew Valley](https://stardewvalley.net/) made by [ConcernedApe](https://twitter.com/ConcernedApe) and published by [Chucklefish](https://blog.chucklefish.org/).
