@@ -24,6 +24,7 @@ A set of Slack emojis related to Stardew Valley. Enjoy!
 ![linus](https://github.com/danslimmon/stardew-valley-emojipack/raw/master/images/sdv-linus.png)
 ![marnie](https://github.com/danslimmon/stardew-valley-emojipack/raw/master/images/sdv-marnie.png)
 ![maru](https://github.com/danslimmon/stardew-valley-emojipack/raw/master/images/sdv-maru.png)
+![morris](https://github.com/danslimmon/stardew-valley-emojipack/raw/master/images/sdv-morris.png)
 ![pam](https://github.com/danslimmon/stardew-valley-emojipack/raw/master/images/sdv-pam.png)
 ![penny](https://github.com/danslimmon/stardew-valley-emojipack/raw/master/images/sdv-penny.png)
 ![pierre](https://github.com/danslimmon/stardew-valley-emojipack/raw/master/images/sdv-pierre.png)
