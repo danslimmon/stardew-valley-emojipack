@@ -44,6 +44,8 @@ emojis:
     src: https://s3-us-west-2.amazonaws.com/danslimmon-emojipacks/stardew_valley/images/sdv-marnie.png
   - name: sdv-maru
     src: https://s3-us-west-2.amazonaws.com/danslimmon-emojipacks/stardew_valley/images/sdv-maru.png
+  - name: sdv-morris
+    src: https://s3-us-west-2.amazonaws.com/danslimmon-emojipacks/stardew_valley/images/sdv-morris.png
   - name: sdv-pam
     src: https://s3-us-west-2.amazonaws.com/danslimmon-emojipacks/stardew_valley/images/sdv-pam.png
   - name: sdv-penny
